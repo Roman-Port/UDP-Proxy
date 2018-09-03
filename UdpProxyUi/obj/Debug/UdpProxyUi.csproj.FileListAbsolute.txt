@@ -1,0 +1,10 @@
+c:\users\roman\source\repos\UdpProxyUi\UdpProxyUi\bin\Debug\UdpProxyUi.exe
+c:\users\roman\source\repos\UdpProxyUi\UdpProxyUi\bin\Debug\UdpProxyUi.pdb
+c:\users\roman\source\repos\UdpProxyUi\UdpProxyUi\obj\Debug\UdpProxyUi.csprojAssemblyReference.cache
+c:\users\roman\source\repos\UdpProxyUi\UdpProxyUi\obj\Debug\UdpProxyUi.Properties.Resources.resources
+c:\users\roman\source\repos\UdpProxyUi\UdpProxyUi\obj\Debug\UdpProxyUi.csproj.GenerateResource.cache
+c:\users\roman\source\repos\UdpProxyUi\UdpProxyUi\obj\Debug\UdpProxyUi.csproj.CoreCompileInputs.cache
+c:\users\roman\source\repos\UdpProxyUi\UdpProxyUi\obj\Debug\UdpProxyUi.exe
+c:\users\roman\source\repos\UdpProxyUi\UdpProxyUi\obj\Debug\UdpProxyUi.pdb
+c:\users\roman\source\repos\UdpProxyUi\UdpProxyUi\obj\Debug\UdpProxyUi.InfoPopup.resources
+c:\users\roman\source\repos\UdpProxyUi\UdpProxyUi\obj\Debug\UdpProxyUi.MainView.resources
